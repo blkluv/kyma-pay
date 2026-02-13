@@ -21,7 +21,7 @@
       "title": "💇 HAIR",
       "description": "Atlanta's hair community — stylists, braiders, barbers, and salon connections",
       "url": "https://t.me/+bMbwiXJ_SjlmNGYx",
-      "icon": "hair", 
+      "icon": "hair",
       "color": "base",
       "newTab": true
     },
@@ -82,19 +82,99 @@
       "newTab": true
     },
     {
-      "title": "🎤 VC Pitch - 60 Sec Video Coaching",
-      "description": "Perfect your 60 second pitch with our team of VC coaches.",
+      "title": "🎵 MUSIC",
+      "description": "Atlanta's music scene — artists, producers, studios, and industry connections",
+      "url": "https://t.me/+YOUR_MUSIC_LINK",
+      "icon": "music_note",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "🏋️ FITNESS",
+      "description": "Atlanta fitness — gyms, trainers, yoga studios, and wellness coaches",
+      "url": "https://t.me/+YOUR_FITNESS_LINK",
+      "icon": "fitness_center",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "💻 TECH",
+      "description": "Atlanta tech — devs, founders, startups, and Silicon Village connections",
+      "url": "https://t.me/+YOUR_TECH_LINK",
+      "icon": "computer",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "🎨 ART",
+      "description": "Atlanta artists — galleries, murals, creatives, and cultural events",
+      "url": "https://t.me/+YOUR_ART_LINK",
+      "icon": "palette",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "👔 FASHION",
+      "description": "Atlanta fashion — designers, boutiques, retail, and style professionals",
+      "url": "https://t.me/+YOUR_FASHION_LINK",
+      "icon": "style",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "🚗 AUTO",
+      "description": "Atlanta auto — mechanics, dealers, detailers, and car culture",
+      "url": "https://t.me/+YOUR_AUTO_LINK",
+      "icon": "directions_car",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "📦 LOGISTICS",
+      "description": "Atlanta logistics — warehouse, shipping, supply chain, and freight",
+      "url": "https://t.me/+YOUR_LOGISTICS_LINK",
+      "icon": "inventory",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "🏨 HOSPITALITY",
+      "description": "Atlanta hospitality — hotels, venues, event spaces, and tourism",
+      "url": "https://t.me/+YOUR_HOSPITALITY_LINK",
+      "icon": "hotel",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "📚 EDUCATION",
+      "description": "Atlanta education — teachers, tutors, schools, and learning opportunities",
+      "url": "https://t.me/+YOUR_EDUCATION_LINK",
+      "icon": "school",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "⚖️ LEGAL",
+      "description": "Atlanta legal — attorneys, paralegals, and professional services",
+      "url": "https://t.me/+YOUR_LEGAL_LINK",
+      "icon": "gavel",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "📢 Community Spotlight",
+      "description": "Get your own branded Telegram channel with a permanent pinned post. Perfect for restaurants, salons, gyms, and local shops to broadcast offers, updates, and booking links directly to Atlanta customers.",
       "url": "https://buy.stripe.com/6oU8wP6GJbT8gFh36V5wI1v",
       "newTab": true,
-      "icon": "speaking",
+      "icon": "campaign",
       "color": "primary"
     },
     {
-      "title": "🎙️ Enterprise Investor Mic™",
-      "description": "We build your own TikTok AR mic filter so founders can pitch you in 60 seconds—no decks, no meetings, just vibes. Get monthly analytics on who's pitching, plus we'll create short video PR that actually hits. Slap your custom QR code anywhere on your website. Stop sifting through emails; start scrolling through deals.",
+      "title": "📍 Pinned Post Placement",
+      "description": "Get your business pinned at the top of any ATL5D Telegram community for 7–30 days. Choose from HAIR, FOOD, JOBS, REAL ESTATE, and more. Includes image, description, and direct link.",
       "url": "https://buy.stripe.com/7sY28re9b7CS1Kn0YN5wI1w",
       "newTab": true,
-      "icon": "microphone",
+      "icon": "push_pin",
       "color": "primary"
     }
   ]
