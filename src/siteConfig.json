@@ -29,7 +29,7 @@
       "title": "🍔 FOOD",
       "description": "Atlanta's food scene — restaurants, chefs, catering, and food biz opportunities",
       "url": "https://t.me/+nE4P1tt8xBo1Zjkx",
-      "icon": "restaurant",
+      "icon": "utensils",
       "color": "base",
       "newTab": true
     },
@@ -37,7 +37,7 @@
       "title": "💼 JOBS",
       "description": "Atlanta jobs — warehouse, delivery, driver, dental, and local hiring",
       "url": "https://t.me/+mgFc_CksH8s4N2U5",
-      "icon": "work",
+      "icon": "coffee",
       "color": "base",
       "newTab": true
     },
@@ -45,7 +45,7 @@
       "title": "🎉 EVENTS",
       "description": "Atlanta events — networking, pop-ups, community gatherings, and local happenings",
       "url": "https://t.me/+BkCGzq1DInw1NzVh",
-      "icon": "event",
+      "icon": "eye",
       "color": "base",
       "newTab": true
     },
@@ -53,7 +53,7 @@
       "title": "💰 SALES",
       "description": "Atlanta sales pros — leads, closers, SaaS, retail, and biz dev opportunities",
       "url": "https://t.me/+oigZwz7rPikzNzhh",
-      "icon": "sales",
+      "icon": "dollar",
       "color": "base",
       "newTab": true
     },
@@ -61,7 +61,7 @@
       "title": "🏠 REAL ESTATE",
       "description": "Atlanta real estate — agents, investors, deals, and property connections",
       "url": "https://t.me/+yYg06-MpoQk3OTUx",
-      "icon": "real_estate",
+      "icon": "house",
       "color": "base",
       "newTab": true
     },
@@ -69,7 +69,7 @@
       "title": "🌿 HEAL XYZ",
       "description": "Atlanta wellness — healers, practitioners, holistic health, and wellness biz",
       "url": "https://t.me/+CnVFnP2ccCtkZjQx",
-      "icon": "healing",
+      "icon": "sparkles",
       "color": "base",
       "newTab": true
     },
@@ -77,7 +77,7 @@
       "title": "🚚 DRIVER",
       "description": "Atlanta drivers — delivery, rideshare, trucking, courier, and fleet opportunities",
       "url": "https://t.me/+LXz_0uM4k3w0N2Ix",
-      "icon": "local_shipping",
+      "icon": "shopping-cart",
       "color": "base",
       "newTab": true
     },
@@ -85,7 +85,7 @@
       "title": "🎵 MUSIC",
       "description": "Atlanta's music scene — artists, producers, studios, and industry connections",
       "url": "https://t.me/+cNzij7gSmPg1YTY5",
-      "icon": "music_note",
+      "icon": "headphones",
       "color": "base",
       "newTab": true
     },
@@ -93,7 +93,7 @@
       "title": "🏋️ FITNESS",
       "description": "Atlanta fitness — gyms, trainers, yoga studios, and wellness coaches",
       "url": "https://t.me/+HZcwYWXTghs1NTMx",
-      "icon": "fitness_center",
+      "icon": "heart",
       "color": "base",
       "newTab": true
     },
@@ -101,7 +101,7 @@
       "title": "💻 TECH",
       "description": "Atlanta tech — devs, founders, startups, and Silicon Village connections",
       "url": "https://t.me/+102TFkm4PGdiNzMx",
-      "icon": "computer",
+      "icon": "lightbulb",
       "color": "base",
       "newTab": true
     },
@@ -109,7 +109,7 @@
       "title": "🎨 ART",
       "description": "Atlanta artists — galleries, murals, creatives, and cultural events",
       "url": "https://t.me/+KYZ0i59PnV02N2M5",
-      "icon": "palette",
+      "icon": "image",
       "color": "base",
       "newTab": true
     },
@@ -117,7 +117,7 @@
       "title": "👔 FASHION",
       "description": "Atlanta fashion — designers, boutiques, retail, and style professionals",
       "url": "https://t.me/+FCDSv0YVyc1iZWVh",
-      "icon": "style",
+      "icon": "shirt",
       "color": "base",
       "newTab": true
     },
@@ -125,7 +125,7 @@
       "title": "🚗 AUTO",
       "description": "Atlanta auto — mechanics, dealers, detailers, and car culture",
       "url": "https://t.me/+HpWiPE8hzFZkNjBh",
-      "icon": "directions_car",
+      "icon": "foursquare",
       "color": "base",
       "newTab": true
     },
@@ -133,7 +133,7 @@
       "title": "📦 LOGISTICS",
       "description": "Atlanta logistics — warehouse, shipping, supply chain, and freight",
       "url": "https://t.me/+lKvX8b8NAKBjZGIx",
-      "icon": "inventory",
+      "icon": "mail",
       "color": "base",
       "newTab": true
     },
@@ -141,7 +141,7 @@
       "title": "🏨 HOSPITALITY",
       "description": "Atlanta hospitality — hotels, venues, event spaces, and tourism",
       "url": "https://t.me/+6ZpAnZRtZMI1MmQx",
-      "icon": "hotel",
+      "icon": "hospital",
       "color": "base",
       "newTab": true
     },
@@ -149,7 +149,7 @@
       "title": "📚 EDUCATION",
       "description": "Atlanta education — teachers, tutors, schools, and learning opportunities",
       "url": "https://t.me/+aqiZyXZQxhZiOTY5",
-      "icon": "school",
+      "icon": "speaking",
       "color": "base",
       "newTab": true
     },
@@ -157,7 +157,7 @@
       "title": "⚖️ LEGAL",
       "description": "Atlanta legal — attorneys, paralegals, and professional services",
       "url": "https://t.me/+-PQjd6V8H802NWZh",
-      "icon": "gavel",
+      "icon": "drama",
       "color": "base",
       "newTab": true
     },
@@ -166,7 +166,7 @@
       "description": "Own your industry on Telegram. We launch and manage a fully branded Telegram channel for your business, with a dedicated account manager handling customer questions, updates, and engagement so you never miss a lead. ",
       "url": "https://buy.stripe.com/aFa6oH7KNaP488L0YN5wI1A",
       "newTab": true,
-      "icon": "campaign",
+      "icon": "hand-helping",
       "color": "primary"
     },
     {
@@ -174,7 +174,7 @@
       "description": "Get your business ad pinned at the top of any ATL5D Telegram community for 30 days. Includes Video, description, and direct purchase link.",
       "url": "https://buy.stripe.com/cNieVd4yBg9odt57nb5wI1B",
       "newTab": true,
-      "icon": "push_pin",
+      "icon": "chart",
       "color": "primary"
     }
   ]
