@@ -1,9 +1,45 @@
+{
+  "name": "T.ATL5D",
+  "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://t.atl5d",
+  "isBlogDisplayed": true,
+  "blogHomePostLimit": 3,
+  "contactFormEnabled": true,
+  "web3FormsAccessKey": "1dff14ec-f8b0-492e-ae29-4594489de220",
+  "umamiWebsiteId": "dd667d9f-f9cd-4b59-8c17-c9681858bad7",
+  "iconLinks": [
+    {
+      "id": "1728534577186",
+      "icon": "tiktok",
+      "url": "https://www.tiktok.com/@vcpitch",
+      "color": "base"
+    }
+  ],
+  {
+  "name": "T.ATL5D",
+  "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://t.atl5d",
+  "isBlogDisplayed": true,
+  "blogHomePostLimit": 3,
+  "contactFormEnabled": true,
+  "web3FormsAccessKey": "1dff14ec-f8b0-492e-ae29-4594489de220",
+  "umamiWebsiteId": "dd667d9f-f9cd-4b59-8c17-c9681858bad7",
+  "iconLinks": [
+    {
+      "id": "1728534577186",
+      "icon": "tiktok",
+      "url": "https://www.tiktok.com/@vcpitch",
+      "color": "base"
+    }
+  ],
   "customLinks": [
     {
       "title": "💇 HAIR",
       "description": "Atlanta's hair community — stylists, braiders, barbers, and salon connections",
       "url": "https://t.me/+bMbwiXJ_SjlmNGYx",
-      "icon": "content_cut",
+      "icon": "hair",
       "color": "base",
       "newTab": true
     },
@@ -35,7 +71,7 @@
       "title": "💰 SALES",
       "description": "Atlanta sales pros — leads, closers, SaaS, retail, and biz dev opportunities",
       "url": "https://t.me/+oigZwz7rPikzNzhh",
-      "icon": "sell",
+      "icon": "sales",
       "color": "base",
       "newTab": true
     },
@@ -43,7 +79,7 @@
       "title": "🏠 REAL ESTATE",
       "description": "Atlanta real estate — agents, investors, deals, and property connections",
       "url": "https://t.me/+yYg06-MpoQk3OTUx",
-      "icon": "real_estate_agent",
+      "icon": "real_estate",
       "color": "base",
       "newTab": true
     },
@@ -66,7 +102,7 @@
     {
       "title": "🎵 MUSIC",
       "description": "Atlanta's music scene — artists, producers, studios, and industry connections",
-      "url": "https://t.me/+YOUR_MUSIC_LINK",
+      "url": "https://t.me/+cNzij7gSmPg1YTY5",
       "icon": "music_note",
       "color": "base",
       "newTab": true
@@ -74,7 +110,7 @@
     {
       "title": "🏋️ FITNESS",
       "description": "Atlanta fitness — gyms, trainers, yoga studios, and wellness coaches",
-      "url": "https://t.me/+YOUR_FITNESS_LINK",
+      "url": "https://t.me/+HZcwYWXTghs1NTMx",
       "icon": "fitness_center",
       "color": "base",
       "newTab": true
@@ -82,7 +118,7 @@
     {
       "title": "💻 TECH",
       "description": "Atlanta tech — devs, founders, startups, and Silicon Village connections",
-      "url": "https://t.me/+YOUR_TECH_LINK",
+      "url":”https://t.me/+102TFkm4PGdiNzMx",
       "icon": "computer",
       "color": "base",
       "newTab": true
@@ -90,7 +126,7 @@
     {
       "title": "🎨 ART",
       "description": "Atlanta artists — galleries, murals, creatives, and cultural events",
-      "url": "https://t.me/+YOUR_ART_LINK",
+      "url": "https://t.me/+KYZ0i59PnV02N2M5",
       "icon": "palette",
       "color": "base",
       "newTab": true
@@ -98,7 +134,7 @@
     {
       "title": "👔 FASHION",
       "description": "Atlanta fashion — designers, boutiques, retail, and style professionals",
-      "url": "https://t.me/+YOUR_FASHION_LINK",
+      "url": "https://t.me/+FCDSv0YVyc1iZWVh",
       "icon": "style",
       "color": "base",
       "newTab": true
@@ -106,7 +142,7 @@
     {
       "title": "🚗 AUTO",
       "description": "Atlanta auto — mechanics, dealers, detailers, and car culture",
-      "url": "https://t.me/+YOUR_AUTO_LINK",
+      "url": "https://t.me/+HpWiPE8hzFZkNjBh",
       "icon": "directions_car",
       "color": "base",
       "newTab": true
@@ -114,7 +150,7 @@
     {
       "title": "📦 LOGISTICS",
       "description": "Atlanta logistics — warehouse, shipping, supply chain, and freight",
-      "url": "https://t.me/+YOUR_LOGISTICS_LINK",
+      "url": "https://t.me/+lKvX8b8NAKBjZGIx",
       "icon": "inventory",
       "color": "base",
       "newTab": true
@@ -122,7 +158,7 @@
     {
       "title": "🏨 HOSPITALITY",
       "description": "Atlanta hospitality — hotels, venues, event spaces, and tourism",
-      "url": "https://t.me/+YOUR_HOSPITALITY_LINK",
+      "url": "https://t.me/+6ZpAnZRtZMI1MmQx",
       "icon": "hotel",
       "color": "base",
       "newTab": true
@@ -130,7 +166,7 @@
     {
       "title": "📚 EDUCATION",
       "description": "Atlanta education — teachers, tutors, schools, and learning opportunities",
-      "url": "https://t.me/+YOUR_EDUCATION_LINK",
+      "url": "https://t.me/+aqiZyXZQxhZiOTY5",
       "icon": "school",
       "color": "base",
       "newTab": true
@@ -138,25 +174,26 @@
     {
       "title": "⚖️ LEGAL",
       "description": "Atlanta legal — attorneys, paralegals, and professional services",
-      "url": "https://t.me/+YOUR_LEGAL_LINK",
+      "url": "https://t.me/+-PQjd6V8H802NWZh",
       "icon": "gavel",
       "color": "base",
       "newTab": true
     },
     {
-      "title": "📢 Community Spotlight",
-      "description": "Get your own branded Telegram channel with a permanent pinned post. Perfect for restaurants, salons, gyms, and local shops to broadcast offers, updates, and booking links directly to Atlanta customers.",
-      "url": "https://buy.stripe.com/6oU8wP6GJbT8gFh36V5wI1v",
+      "title": "🪶 Tribe Link",
+      "description": "Own your industry on Telegram. We launch and manage a fully branded Telegram channel for your business, with a dedicated account manager handling customer questions, updates, and engagement so you never miss a lead. ",
+      "url": "https://buy.stripe.com/aFa6oH7KNaP488L0YN5wI1A",
       "newTab": true,
       "icon": "campaign",
       "color": "primary"
     },
     {
-      "title": "📍 Pinned Post Placement",
-      "description": "Get your business pinned at the top of any ATL5D Telegram community for 7–30 days. Choose from HAIR, FOOD, JOBS, REAL ESTATE, and more. Includes image, description, and direct link.",
-      "url": "https://buy.stripe.com/7sY28re9b7CS1Kn0YN5wI1w",
+      "title": "📍 Pinned AD",
+      "description": "Get your business ad pinned at the top of any ATL5D Telegram community for 30 days. Includes Video, description, and direct purchase link.",
+      "url": "https://buy.stripe.com/cNieVd4yBg9odt57nb5wI1B",
       "newTab": true,
       "icon": "push_pin",
       "color": "primary"
     }
   ]
+}
