@@ -1,21 +1,3 @@
-{
-  "name": "T.ATL5D",
-  "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
-  "profilePicture": "/profile-picture.jpg",
-  "url": "https://t.atl5d",
-  "isBlogDisplayed": true,
-  "blogHomePostLimit": 3,
-  "contactFormEnabled": true,
-  "web3FormsAccessKey": "1dff14ec-f8b0-492e-ae29-4594489de220",
-  "umamiWebsiteId": "dd667d9f-f9cd-4b59-8c17-c9681858bad7",
-  "iconLinks": [
-    {
-      "id": "1728534577186",
-      "icon": "tiktok",
-      "url": "https://www.tiktok.com/@vcpitch",
-      "color": "base"
-    }
-  ],
   {
   "name": "T.ATL5D",
   "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
