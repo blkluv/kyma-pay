@@ -1,7 +1,7 @@
 {
   "name": "T.ATL5D",
   "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
-  "profilePicture": "/profile-picture.jpg",
+  "profilePicture": "/profile.jpg",
   "url": "https://t.atl5d",
   "isBlogDisplayed": true,
   "blogHomePostLimit": 3,
@@ -21,7 +21,7 @@
       "title": "💇 HAIR",
       "description": "Atlanta's hair community — stylists, braiders, barbers, and salon connections",
       "url": "https://t.me/+bMbwiXJ_SjlmNGYx",
-      "icon": "hair",
+      "icon": "crown",
       "color": "base",
       "newTab": true
     },
