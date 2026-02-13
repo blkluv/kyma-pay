@@ -1,4 +1,4 @@
-  {
+{
   "name": "T.ATL5D",
   "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
   "profilePicture": "/profile-picture.jpg",
@@ -100,7 +100,7 @@
     {
       "title": "💻 TECH",
       "description": "Atlanta tech — devs, founders, startups, and Silicon Village connections",
-      "url":”https://t.me/+102TFkm4PGdiNzMx",
+      "url": "https://t.me/+102TFkm4PGdiNzMx",
       "icon": "computer",
       "color": "base",
       "newTab": true
