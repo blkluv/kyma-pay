@@ -1,0 +1,136 @@
+{
+  "name": "T.ATL5D",
+  "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://t.atl5d",
+  "isBlogDisplayed": true,
+  "blogHomePostLimit": 3,
+  "contactFormEnabled": true,
+  "web3FormsAccessKey": "1dff14ec-f8b0-492e-ae29-4594489de220",
+  "umamiWebsiteId": "dd667d9f-f9cd-4b59-8c17-c9681858bad7",
+  "iconLinks": [
+    {
+      "id": "1728534577186",
+      "icon": "tiktok",
+      "url": "https://www.tiktok.com/@vcpitch",
+      "color": "base"
+    }
+  ],
+  "customLinks": [
+    {
+      "title": "Iron Key Capital",
+      "description": "Iron Key Capital invests in Seed to Series B rounds ($2M–$8M checks) as a lead investor in high-conviction cybersecurity, enterprise AI, and data infrastructure startups ready to scale their go-to-market strategy.",
+      "url": "https://www.tiktok.com/effect/Iron-Key-Capital-3810731820?_d=secCgYIASAHKAESPgo8MKuoBGYC6%2FYY0S3IpdHwQUTh3OxfZbZ%2FprNlrYYrWN%2B%2BHf38re8hwjl1AP3Imr8pF6QPowoK9syo5Fr%2FGgA%3D&_r=1&_svg=3&checksum=4816642eb4e965501ddbaba969cd610275d15815e43296cb8c2542ad83f213d6&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=2FA2A0B2-2E89-4F3B-8444-97BF27C5873A&share_region=US&share_sticker_id=3810731820&social_share_type=8&source=h5_m&timestamp=1770393359&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/iron-key-capital.jpg",
+      "imageAlt": "Iron Key Capital invests in Seed to Series B rounds ($2M–$8M checks) as a lead investor in high-conviction cybersecurity, enterprise AI, and data infrastructure startups ready to scale their go-to-market strategy.",
+      "imageDark": "/iron-key-capital.jpg",
+      "imageAltDark": "Iron Key Capital invests in Seed to Series B rounds ($2M–$8M checks) as a lead investor in high-conviction cybersecurity, enterprise AI, and data infrastructure startups ready to scale their go-to-market strategy.",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "Coinbase Ventures",
+      "description": "Coinbase Ventures primarily invests in Seed to Series A rounds across all crypto sectors—from infrastructure and DeFi to consumer Web3 apps—focusing on founders building foundational, scalable ecosystem projects.",
+      "url": "https://www.tiktok.com/effect/Coinbase-Ventures-3810730217?_d=secCgYIASAHKAESPgo8TNCDcOC6Wdl8B4%2FLOh6fKgiTp1mQVxib3%2BatWl7Wwez08XEU6axjk9vdXFw4N80rLu3d1ix8kCTQ%2F3VZGgA%3D&_r=1&_svg=3&checksum=21f475ad4028e545fc50f7d01901638175c5e438e4986c732d26c79409ba1660&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=3F55A79C-ED3C-4A08-BC17-3FA53D03E276&share_region=US&share_sticker_id=3810730217&social_share_type=8&source=h5_m&timestamp=1770395967&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/coinbase-ventures-vc-pitch.jpg",
+      "imageAlt": "Whisk Atlanta Camp Creek",
+      "imageDark": "/coinbase-ventures-vc-pitch.jpg",
+      "imageAltDark": "Coinbase Ventures primarily invests in Seed to Series A rounds across all crypto sectors—from infrastructure and DeFi to consumer Web3 apps—focusing on founders building foundational, scalable ecosystem projects.",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "Connexa Capital",
+      "description": "Connexa Capital invests in Seed to Series A rounds ($500K–$2M checks) as the first institutional backer for early-stage B2B SaaS and fintech startups focused on digital infrastructure and workflow automation.",
+      "url": "https://www.tiktok.com/effect/Connexa-Capital-3810736091?_d=secCgYIASAHKAESPgo8skw4pyVEzrqMA88bW9mcuXArWvrdzbW3RxxSh4NYcJ0Tcohk3%2B7KQkizTVc8cWRwYIGzEHZD4TWJiZiCGgA%3D&_r=1&_svg=3&checksum=caa75af8d299f0ce6241f1c82a5b666498b72237cc7a757ef6feb144ea75b61a&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=643C5FA6-E737-41AE-8A43-FDB032094A8D&share_region=US&share_sticker_id=3810736091&social_share_type=8&source=h5_m&timestamp=1770396023&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/connexa-capital-vc-pitch.jpg",
+      "imageAlt": "Connexa Capital invests in Seed to Series A rounds ($500K–$2M checks) as the first institutional backer for early-stage B2B SaaS and fintech startups focused on digital infrastructure and workflow automation.",
+      "imageDark": "/connexa-capital-vc-pitch.jpg",
+      "imageAltDark": "Connexa Capital invests in Seed to Series A rounds ($500K–$2M checks) as the first institutional backer for early-stage B2B SaaS and fintech startups focused on digital infrastructure and workflow automation.",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "Harlem Capital",
+      "description": "Harlem Capital invests in Pre-Seed to Series A rounds ($1M–$3M checks) as the first institutional capital for early-stage, diverse-led startups—especially women and people of color—across consumer, fintech, SaaS, and tech-enabled services.",
+      "url": "https://www.tiktok.com/effect/Harlem-Capital-3810730778?_d=secCgYIASAHKAESPgo8cx6VNvkHNXrJe%2B0SI%2B0EwR9NZq1AJwdQx%2FfUNPplgFHbfmuH%2FfSwUWfdgQF6dZs6Ws6SK16Sgb7XkUVFGgA%3D&_r=1&_svg=3&checksum=b91d0ff5122495eaf8df0ece1681a7228a600f7b9f84dc7398c21bba7a6ef4f8&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=14DEB14F-1A11-4E94-9415-E4BE70A64EF7&share_region=US&share_sticker_id=3810730778&social_share_type=8&source=h5_m&timestamp=1770396091&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/harlem-capital-vc-pitch.jpg",
+      "imageAlt": "Whisk Atlanta Camp Creek",
+      "imageDark": "/harlem-capital-vc-pitch.jpg",
+      "imageAltDark": "Harlem Capital invests in Pre-Seed to Series A rounds ($1M–$3M checks) as the first institutional capital for early-stage, diverse-led startups—especially women and people of color—across consumer, fintech, SaaS, and tech-enabled services.",
+      "color": "base",
+      "newTab": true
+    },
+        {
+      "title": "VC Pitch Pre-Seed",
+      "description": "Pre-Seed round 60 second pitch",
+      "url": "https://www.tiktok.com/effect/VC-Pitch-Pre-Seed-3810730733?_d=secCgYIASAHKAESPgo8g4L0Ug8C5h08PcKOxjp6%2FI01SI6g9DXDt7V%2Bq3orNQZEKBFEgyEQfWAsnqgBG4uM1%2FGTROk9wDrOJ8%2B0GgA%3D&_r=1&_svg=3&checksum=bce7ffe93d4425bb41d9d67630a5ecd5d005ce450079156ce7bd62ab81e179ed&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=DE861B5A-25BB-4758-883B-D8881296C1B6&share_region=US&share_sticker_id=3810730733&social_share_type=8&source=h5_m&timestamp=1770396174&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/vc-pitch-pre-seed-round.jpg",
+      "imageAlt": "Pre-Seed round pitch",
+      "imageDark": "/vc-pitch-pre-seed-round.jpg",
+      "imageAltDark": "Pre-Seed round 60 second pitch",
+      "color": "base",
+      "newTab": true
+    },
+        {
+      "title": "VC Pitch Seed Round",
+      "description": "Seed round 60 second pitch",
+      "url": "https://www.tiktok.com/effect/VC-Pitch-Seed-Round-3810731820?_d=secCgYIASAHKAESPgo8MKuoBGYC6%2FYY0S3IpdHwQUTh3OxfZbZ%2FprNlrYYrWN%2B%2BHf38re8hwjl1AP3Imr8pF6QPowoK9syo5Fr%2FGgA%3D&_r=1&_svg=3&checksum=4816642eb4e965501ddbaba969cd610275d15815e43296cb8c2542ad83f213d6&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=2FA2A0B2-2E89-4F3B-8444-97BF27C5873A&share_region=US&share_sticker_id=3810731820&social_share_type=8&source=h5_m&timestamp=1770393359&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/vc-pitch-seed-round.jpg",
+      "imageAlt": "Seed round pitch",
+      "imageDark": "/vc-pitch-seed-round.jpg",
+      "imageAltDark": "Seed round 60 second pitch",
+      "color": "base",
+      "newTab": true
+    },
+        {
+      "title": "VC Pitch Series A",
+      "description": "Series A round 60 second pitch",
+      "url": "https://www.tiktok.com/effect/VC-Pitch-Series-A-3810649312?_d=secCgYIASAHKAESPgo89oSX8h6ViwwBFEbvSPANEZaQGKw7kkBpLkFu8Dv2bjzjEwIXAMOEA9by41%2FpehnpOW4Mb5MMyu%2BYBELUGgA%3D&_r=1&_svg=3&checksum=14dd309cd3a8acdd549e2022ae98a96112e2807ca634626bf79668811952aa33&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=84FC3420-724C-47FD-9349-A14E983753FB&share_region=US&share_sticker_id=3810649312&social_share_type=8&source=h5_m&timestamp=1770396674&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/vc-pitch-series-a.jpg",
+      "imageAlt": "Series A round 60 second pitch",
+      "imageDark": "/vc-pitch-series-a.jpg",
+      "imageAltDark": "Series A round 60 second pitch",
+      "color": "base",
+      "newTab": true
+    },
+        {
+      "title": "VC Pitch Series B",
+      "description": "Series B round 60 second pitch",
+      "url": "https://www.tiktok.com/effect/VC-Pitch-Series-B-3810731820?_d=secCgYIASAHKAESPgo8MKuoBGYC6%2FYY0S3IpdHwQUTh3OxfZbZ%2FprNlrYYrWN%2B%2BHf38re8hwjl1AP3Imr8pF6QPowoK9syo5Fr%2FGgA%3D&_r=1&_svg=3&checksum=4816642eb4e965501ddbaba969cd610275d15815e43296cb8c2542ad83f213d6&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=2FA2A0B2-2E89-4F3B-8444-97BF27C5873A&share_region=US&share_sticker_id=3810731820&social_share_type=8&source=h5_m&timestamp=1770393359&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/vc-pitch-series-b.jpg",
+      "imageAlt": "Series B round 60 second pitch",
+      "imageDark": "/vc-pitch-series-b.jpg",
+      "imageAltDark": "Series B round 60 second pitch",
+      "color": "base",
+      "newTab": true
+    },
+        {
+      "title": "VC Pitch Series C",
+      "description": "Series C round 60 second pitch",
+      "url": "https://www.tiktok.com/effect/VC-Pitch-Series-C-3810678526?_d=secCgYIASAHKAESPgo81ddSc40PEomFfWa75z7Fl7upIgTRT21CnP6ETS%2BiZbsPXYiWmleq6G3XXsbdxhwyW%2F5%2FZop%2Bi10F0V%2BhGgA%3D&_r=1&_svg=3&checksum=073ab22f1cfea5aa4e45e6b442f6ff0a20217a559daeb886e29cc124886aa914&sec_user_id=MS4wLjABAAAA-tYZxn0qcRgWFlnCCWpXwmsvSl2r6mB8zFOSwAjpd7qmQpjJpoYh-m5pAseOWuXi&share_app_id=1233&share_link_id=55025E43-A181-4413-B233-E71FBFC980B8&share_region=US&share_sticker_id=3810678526&social_share_type=8&source=h5_m&timestamp=1770396911&tt_from=copy&u_code=efg24ibm3hidfd&ug_btm=b8727%2Cb1030&user_id=7400564897682441259&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+      "image": "/vc-pitch-series-c.jpg",
+      "imageAlt": "Series C round 60 second pitch",
+      "imageDark": "/vc-pitch-series-c.jpg",
+      "imageAltDark": "Series C round 60 second pitch",
+      "color": "base",
+      "newTab": true
+    },
+    {
+      "title": "VC Pitch - 60 Sec Video Coaching",
+      "description": "Perfect your 60 second pitch with our team of VC coaches.",
+      "url": "https://buy.stripe.com/6oU8wP6GJbT8gFh36V5wI1v",
+      "newTab": true,
+      "icon": "speaking",
+      "color": "primary"
+    },
+    {
+      "title": "Enterprise Investor Mic™",
+      "description": "We build your own TikTok AR mic filter so founders can pitch you in 60 seconds—no decks, no meetings, just vibes. Get monthly analytics on who's pitching, plus we'll create short video PR that actually hits. Slap your custom QR code anywhere on your website. Stop sifting through emails; start scrolling through deals.",
+      "url": "https://buy.stripe.com/7sY28re9b7CS1Kn0YN5wI1w",
+      "newTab": true,
+      "icon": "microphone",
+      "color": "primary"
+    }
+  ]
+}
