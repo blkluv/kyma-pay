@@ -1,27 +1,9 @@
-{
-  "name": "T.ATL5D",
-  "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
-  "profilePicture": "/profile-picture.jpg",
-  "url": "https://t.atl5d",
-  "isBlogDisplayed": true,
-  "blogHomePostLimit": 3,
-  "contactFormEnabled": true,
-  "web3FormsAccessKey": "1dff14ec-f8b0-492e-ae29-4594489de220",
-  "umamiWebsiteId": "dd667d9f-f9cd-4b59-8c17-c9681858bad7",
-  "iconLinks": [
-    {
-      "id": "1728534577186",
-      "icon": "tiktok",
-      "url": "https://www.tiktok.com/@vcpitch",
-      "color": "base"
-    }
-  ],
   "customLinks": [
     {
       "title": "💇 HAIR",
       "description": "Atlanta's hair community — stylists, braiders, barbers, and salon connections",
       "url": "https://t.me/+bMbwiXJ_SjlmNGYx",
-      "icon": "hair",
+      "icon": "content_cut",
       "color": "base",
       "newTab": true
     },
@@ -53,7 +35,7 @@
       "title": "💰 SALES",
       "description": "Atlanta sales pros — leads, closers, SaaS, retail, and biz dev opportunities",
       "url": "https://t.me/+oigZwz7rPikzNzhh",
-      "icon": "sales",
+      "icon": "sell",
       "color": "base",
       "newTab": true
     },
@@ -61,7 +43,7 @@
       "title": "🏠 REAL ESTATE",
       "description": "Atlanta real estate — agents, investors, deals, and property connections",
       "url": "https://t.me/+yYg06-MpoQk3OTUx",
-      "icon": "real_estate",
+      "icon": "real_estate_agent",
       "color": "base",
       "newTab": true
     },
@@ -178,4 +160,3 @@
       "color": "primary"
     }
   ]
-}
