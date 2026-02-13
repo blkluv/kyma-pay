@@ -1,6 +1,6 @@
 import rss from "@astrojs/rss";
 import { getCollection } from "astro:content";
-import { SITE } from "@/siteConfig";
+import SITE from "@/siteConfig";  // Remove the { braces } - default import
 import { getBaseEntries } from "@/lib/postsService";
 
 export async function GET(context) {
