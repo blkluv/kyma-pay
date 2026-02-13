@@ -1,7 +1,7 @@
 {
   "name": "T.ATL5D",
   "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
-  "profilePicture": "/profile.jpg",
+  "profilePicture": "/profile.png",
   "url": "https://t.atl5d",
   "isBlogDisplayed": true,
   "blogHomePostLimit": 3,
@@ -14,9 +14,22 @@
       "icon": "tiktok",
       "url": "https://www.tiktok.com/@vcpitch",
       "color": "base"
+    },
+    {
+      "id": "1728534577187",
+      "icon": "telegram",
+      "url": "https://t.me/atl5d",
+      "color": "base"
     }
   ],
   "customLinks": [
+    {
+      "title": "Steak & Shrimp Loaded Breakfast Potato",
+      "url": "https://whisk.atl5d.com",
+      "icon": "chart",
+      "video": "whisk-breakfast-steak-potato.MP4",
+      "color": "secondary"
+    },
     {
       "title": "💇 HAIR",
       "description": "Atlanta's hair community — stylists, braiders, barbers, and salon connections",
