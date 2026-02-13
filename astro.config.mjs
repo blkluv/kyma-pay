@@ -9,7 +9,7 @@ export default defineConfig({
   redirects: {
     "/blog": "/",
   },
-  site: "https://whisk.atl5d.com",
+  site: "https://t.atl5d.com",
   integrations: [
     tailwind(),
     sitemap(),
@@ -17,4 +17,11 @@ export default defineConfig({
       include: getRequiredIcons(),
     }),
   ],
+  vite: {
+    resolve: {
+      alias: {
+        '@': '/src'  // ✅ THIS IS THE KEY LINE
+      }
+    }
+  }
 });
