@@ -1,6 +1,6 @@
 ---
-title: "📱 T.ATL5D: Keeping Atlanta Money in Atlanta Through Telegram Tribes"
-description: "Atlanta businesses are closing because 98% of organic social media content never gets seen. T.ATL5D solves this with industry-specific Telegram channels where local businesses connect directly with customers—no algorithms, no pay-to-play."
+title: "📱 ATL5D: Keeping Atlanta Money in Atlanta Through Telegram Tribes"
+description: "Atlanta businesses are closing because 98% of organic social media content never gets seen. ATL5D solves this with industry-specific Telegram channels where local businesses connect directly with customers—no algorithms, no pay-to-play."
 publicationDate: 2026-02-13
 draft: false
 hidden: false
@@ -11,7 +11,7 @@ tags: ["Atlanta", "small business", "Telegram", "local marketing", "community", 
 **Writer:** Hahz Terry aka Wizard of Hahz
 **February 13, 2026** • 4 min read
 
-![T.ATL5D Atlanta Telegram Communities Header](/profile.png)
+![ATL5D Atlanta Telegram Communities Header](/profile.png)
 
 ## 📉 The 2% Problem Killing Atlanta Businesses
 
@@ -48,11 +48,11 @@ Your customers still *want* to support you. They just never see your content.
 
 The algorithm became the gatekeeper. And the gate only opens for cash.
 
-## 📱 T.ATL5D: No Algorithms. No Pay-to-Play. Just Community.
+## 📱 ATL5D: No Algorithms. No Pay-to-Play. Just Community.
 
-**T.ATL5D** is Atlanta's answer to the 2% problem. We've built industry-specific Telegram channels where local businesses connect directly with local customers—zero algorithms, zero pay-to-play, zero noise.
+**ATL5D** is Atlanta's answer to the 2% problem. We've built industry-specific Telegram channels where local businesses connect directly with local customers—zero algorithms, zero pay-to-play, zero noise.
 
-Telegram isn't social media. It's **community media**. When someone joins a T.ATL5D channel, they see *everything* you post. No shadowbanning. No "this post performed poorly so we'll hide it." Just direct connection.
+Telegram isn't social media. It's **community media**. When someone joins a ATL5D channel, they see *everything* you post. No shadowbanning. No "this post performed poorly so we'll hide it." Just direct connection.
 
 ### 🏙️ **The ATL5D Channels**
 
@@ -180,7 +180,7 @@ Every member sees your offer the moment they open the channel. No scrolling. No 
 
 Atlanta businesses shouldn't need $100K to reach their own customers. They shouldn't compete with funded competitors who buy visibility while quality businesses disappear.
 
-**T.ATL5D** is the alternative. No algorithms. No pay-to-play. Just Atlanta businesses connecting directly with Atlanta communities.
+**ATL5D** is the alternative. No algorithms. No pay-to-play. Just Atlanta businesses connecting directly with Atlanta communities.
 
 Join your industry channel today. Stay visible. Stay Atlanta.
 
@@ -212,7 +212,7 @@ A: Free channels are community spaces—anyone can post within guidelines. Tribe
 A: Within 24 hours of purchase. We'll produce your video, write your description, and pin your ad at the top of your chosen channel for 30 days similar to the Whisk ad video.
 
 **Q: How does this Telegram ad services help my TikTok & Instagram?**  
-A: We repost all stories on TikTok and Instagram from all businesses and creators subscribed to T.ATL5D.com.
+A: We repost all stories on TikTok and Instagram from all businesses and creators subscribed to ATL5D.com.
 
 **Q: What happens to my Tribe Link channel if I cancel?**  
-A: We remove your channel link from our T.ATL5D.com and transfer your tribe to you.
+A: We remove your channel link from our ATL5D.com and transfer your tribe to you.

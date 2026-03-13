@@ -9,7 +9,7 @@ export default defineConfig({
   redirects: {
     "/blog": "/",
   },
-  site: "https://t.atl5d.com",
+  site: "https://atl5d.com",
   integrations: [
     tailwind(),
     sitemap(),

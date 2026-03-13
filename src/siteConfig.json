@@ -1,14 +1,20 @@
 {
-  "name": "T.ATL5D",
-  "bio": "ATL5D is where Atlanta links up on Telegram to find real local businesses and support them directly. Built on open channels + Telegram Pay—transparent, ATL5D tribe-first, and all about keeping money in the city.",
+  "name": "ATL5D",
+  "bio": "ATL5D is literally the whole city on Telegram. We plug you directly into the real local spots so you can find them and actually support. It’s open channels + Telegram Pay, so everything’s transparent. Tribe-first, always. We’re really out here keeping the bag in Atlanta.",
   "profilePicture": "/profile.png",
-  "url": "https://t.atl5d",
+  "url": "https://atl5d",
   "isBlogDisplayed": true,
   "blogHomePostLimit": 3,
   "contactFormEnabled": true,
   "web3FormsAccessKey": "1dff14ec-f8b0-492e-ae29-4594489de220",
   "umamiWebsiteId": "dd667d9f-f9cd-4b59-8c17-c9681858bad7",
   "iconLinks": [
+    {
+      "id": "1728534577188",
+      "icon": "shopping-cart",
+      "url": "https://market.atl5d.com",
+      "color": "base"
+    },
     {
       "id": "1728534577186",
       "icon": "tiktok",
@@ -188,7 +194,7 @@
       "url": "https://buy.stripe.com/aFa6oH7KNaP488L0YN5wI1A",
       "newTab": true,
       "icon": "hand-helping",
-      "color": "primary"
+      "color": "neutral"
     },
     {
       "title": "📍 Pinned AD $770 /M",
@@ -196,7 +202,7 @@
       "url": "https://buy.stripe.com/cNieVd4yBg9odt57nb5wI1B",
       "newTab": true,
       "icon": "chart",
-      "color": "primary"
+      "color": "neutral"
     }
   ]
 }
